@@ -21,9 +21,6 @@
   "autoload": {
     "files": [
       "registration.php"
-    ],
-    "psr-4": {
-      "Kangu\\Shipping\\": ""
-    }
+    ]
   }
 }
