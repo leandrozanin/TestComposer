@@ -20,7 +20,7 @@
   ],
   "autoload": {
     "files": [
-      "registration.php"
+      "autoload.php"
     ]
   }
 }
