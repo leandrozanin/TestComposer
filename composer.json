@@ -9,7 +9,8 @@
     "AFL-3.0"
   ],
   "require": {
-    "php": ">=7.0.0"
+    "php": ">=7.0.0",
+     "zanin/testezanin" : "*"
   },
   "authors": [
     {
