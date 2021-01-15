@@ -1,6 +1,7 @@
 {
   "name": "zanin/testezanin",
   "description": "teste de repositorio",
+  "minimum-stability":"dev",
   "type": "magento2-module",
   "version": "1.0.3",
   "license": [
